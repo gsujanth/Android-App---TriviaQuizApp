@@ -1,0 +1,21 @@
+<resources>
+    <!--
+      Author : Sujanth Babu Guntupalli
+    -->
+    <string name="app_name">Homework03</string>
+    <string name="WelcomeTo">Welcome to</string>
+    <string name="TriviaApp">Trivia App</string>
+    <string name="TriviaReady">Trivia Ready</string>
+    <string name="StartTrivia">Start Trivia</string>
+    <string name="Exit">Exit</string>
+    <string name="TriviaQuiz">Trivia Quiz</string>
+    <string name="TriviaImage">Trivia Image</string>
+    <string name="LoadingTrivia">Loading Trivia</string>
+    <string name="LoadingImage">Loading Image</string>
+    <string name="Quit">Quit</string>
+    <string name="Next">Next</string>
+    <string name="TriviaStats">Trivia Stats</string>
+    <string name="CorrectAnswers">Correct Answers</string>
+    <string name="TryAgain">Try Again</string>
+    <string name="TryAgainMsg">Try again and see if you can get \n all the correct answers!</string>
+</resources>
